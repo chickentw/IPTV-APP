@@ -1,0 +1,19 @@
+This is a source code of live.touhao1995.com app
+
+It very simple, only few lines of code.. almost 0 bug 0 memory leaks(Any bug just fix on server not this app)
+
+Very good things to newbies or lazy person like me
+
+feel free to use
+
+URL change
+
+In ViewController.m change google.com.sg to any url you like
+
+Then compile and publish it
+
+You sure cannot publish this app in Apple appstore (100% reject)
+
+License
+
+CC 3.0 BY-NC-SA
